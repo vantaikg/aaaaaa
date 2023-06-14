@@ -1,2 +1,1 @@
-# aaaaaa
-aaaaaa
+.env.example
